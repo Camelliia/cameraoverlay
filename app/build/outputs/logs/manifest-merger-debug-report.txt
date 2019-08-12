@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:grantUriPermissions
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:29:13-47
+	android:authorities
+		INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:27:13-60
+	android:exported
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:26:13-67
+manifest
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\6802138fca59c609920eea5e1cf30474\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\69acd8627dbc852404f51bb555a0e8c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\88507f255c9be13ab52dc1c9a7da4cca\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\2212ea9adf89a20502214438746fe6c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\377361c046da6c35034c86b6876cef2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\f654712533380d45ce381d39c19a87dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\bf11baa7ae664fb12deb80bd465aab11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\9de7bcadc60be21ec3225bd4fb6add59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\95fa746771143a301a7530a55c22fc4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\c1de1b032babffddbb70ba5fc88eda4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\b74aedec93742a787f6f66bb321a3593\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\7df37be9ab44ced3050251f6e4baee9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\620f7a042017de378da076cc9c70462c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\af7e0d77ef3f3b4b615bfd47fd39c482\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\256c34848f800054d8e5f972fb1198e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\22b35098da179bf997af57c5a9c4ec89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\55a72f52756d7b4cafc6a563964d8870\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\d0a8fc47f67fcd77448099287523c84c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\a1e78a07f04abb6d5b5b4919fa172d46\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\c1ad3baf82cb9e0aaf5ad75b11a89a67\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\700a114e610a73b4d6484bd38d4a4319\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\b667c4dac0dfa65f982339d0350ba572\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\c0ff34a7725a57f7229c2da9c8a92847\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\1d8a99caa384022beb7dadb33ed5ae35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\47aebda5ddefbdb7c56a0b8f622f9b00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\8c9041c252e1a2ab4ee1afb19b6fa0e1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\0dab6c1fb95ab00e0501c434aa64e8e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\91dda5614f6509819879484da70dc29d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\9a873e2f014ca76008e4df386d5f8f77\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\088cf8faae13e7cc7a76417f04cd890f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\69946b404230ea3be1284a4f75fbe825\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:13:5-94
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:13:22-91
+application
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:15:5-45:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\6802138fca59c609920eea5e1cf30474\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\6802138fca59c609920eea5e1cf30474\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\88507f255c9be13ab52dc1c9a7da4cca\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\88507f255c9be13ab52dc1c9a7da4cca\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\a1e78a07f04abb6d5b5b4919fa172d46\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\a1e78a07f04abb6d5b5b4919fa172d46\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\c1ad3baf82cb9e0aaf5ad75b11a89a67\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\c1ad3baf82cb9e0aaf5ad75b11a89a67\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\a1e78a07f04abb6d5b5b4919fa172d46\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:19:9-54
+	android:largeHeap
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:21:9-33
+	android:icon
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.example.satragni.cameraassignment.PreviewActivity
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:34:9-37:68
+	android:label
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:36:13-59
+	android:theme
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:35:13-44
+activity#com.example.satragni.cameraassignment.MainActivity
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:38:9-44:20
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:38:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:42:27-74
+uses-sdk
+INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\6802138fca59c609920eea5e1cf30474\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\6802138fca59c609920eea5e1cf30474\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\69acd8627dbc852404f51bb555a0e8c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\69acd8627dbc852404f51bb555a0e8c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\88507f255c9be13ab52dc1c9a7da4cca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\88507f255c9be13ab52dc1c9a7da4cca\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\2212ea9adf89a20502214438746fe6c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\2212ea9adf89a20502214438746fe6c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\377361c046da6c35034c86b6876cef2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\377361c046da6c35034c86b6876cef2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\f654712533380d45ce381d39c19a87dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\f654712533380d45ce381d39c19a87dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\bf11baa7ae664fb12deb80bd465aab11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\bf11baa7ae664fb12deb80bd465aab11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\9de7bcadc60be21ec3225bd4fb6add59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\9de7bcadc60be21ec3225bd4fb6add59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\95fa746771143a301a7530a55c22fc4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\95fa746771143a301a7530a55c22fc4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\c1de1b032babffddbb70ba5fc88eda4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\c1de1b032babffddbb70ba5fc88eda4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\b74aedec93742a787f6f66bb321a3593\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\b74aedec93742a787f6f66bb321a3593\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\7df37be9ab44ced3050251f6e4baee9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\7df37be9ab44ced3050251f6e4baee9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\620f7a042017de378da076cc9c70462c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\620f7a042017de378da076cc9c70462c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\af7e0d77ef3f3b4b615bfd47fd39c482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\af7e0d77ef3f3b4b615bfd47fd39c482\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\256c34848f800054d8e5f972fb1198e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\256c34848f800054d8e5f972fb1198e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\22b35098da179bf997af57c5a9c4ec89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\22b35098da179bf997af57c5a9c4ec89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\55a72f52756d7b4cafc6a563964d8870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\55a72f52756d7b4cafc6a563964d8870\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\d0a8fc47f67fcd77448099287523c84c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\d0a8fc47f67fcd77448099287523c84c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\a1e78a07f04abb6d5b5b4919fa172d46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\a1e78a07f04abb6d5b5b4919fa172d46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\c1ad3baf82cb9e0aaf5ad75b11a89a67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\c1ad3baf82cb9e0aaf5ad75b11a89a67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\700a114e610a73b4d6484bd38d4a4319\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\700a114e610a73b4d6484bd38d4a4319\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\b667c4dac0dfa65f982339d0350ba572\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\b667c4dac0dfa65f982339d0350ba572\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\c0ff34a7725a57f7229c2da9c8a92847\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\c0ff34a7725a57f7229c2da9c8a92847\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\1d8a99caa384022beb7dadb33ed5ae35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\1d8a99caa384022beb7dadb33ed5ae35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\47aebda5ddefbdb7c56a0b8f622f9b00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\47aebda5ddefbdb7c56a0b8f622f9b00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\8c9041c252e1a2ab4ee1afb19b6fa0e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\8c9041c252e1a2ab4ee1afb19b6fa0e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\0dab6c1fb95ab00e0501c434aa64e8e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\0dab6c1fb95ab00e0501c434aa64e8e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\91dda5614f6509819879484da70dc29d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\91dda5614f6509819879484da70dc29d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\9a873e2f014ca76008e4df386d5f8f77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\9a873e2f014ca76008e4df386d5f8f77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\088cf8faae13e7cc7a76417f04cd890f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\088cf8faae13e7cc7a76417f04cd890f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\69946b404230ea3be1284a4f75fbe825\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\INDIA\.gradle\caches\transforms-2\files-2.1\69946b404230ea3be1284a4f75fbe825\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:30:13-32:58
+	android:resource
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:32:17-55
+	android:name
+		ADDED from C:\Users\INDIA\AndroidStudioProjects\CameraOverlayExample\app\src\main\AndroidManifest.xml:31:17-67

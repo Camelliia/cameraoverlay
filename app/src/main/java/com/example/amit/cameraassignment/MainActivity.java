@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         gallery = findViewById(R.id.gallery_button);
         myContext = this;
         startDialog();
-    }
+//forking test
 
 
 
